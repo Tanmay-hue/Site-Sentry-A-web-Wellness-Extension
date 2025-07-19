@@ -14,7 +14,7 @@ Track your online activity, boost productivity, and improve your digital well-be
 
 ## How It Works
 
-1. **Install the Extension** – Add TimeTrack from the [Chrome Web Store](https://github.com/Ashraf2543/SiteSentry1/raw/refs/heads/main/code.zip) *(Firefox support coming soon)*
+1. **Install the Extension** – Add TimeTrack from the [Chrome Web Store](https://github.com/Tanmay-hue/Site-Sentry-A-web-Wellness-Extension/tree/main/Extension)
 2. **Let It Run in the Background** – Automatically tracks browsing activity
 3. **View Your Insights** – Get reports and visualizations of your time
 4. **Improve Your Habits** – Set goals and make data-driven changes
@@ -41,7 +41,7 @@ See our [Privacy Policy](#) (link to be added) for full details.
 ## Installation
 
 You can download the extension ZIP and install it manually:
-[Download Latest Version](https://github.com/Ashraf2543/SiteSentry1/raw/refs/heads/main/code.zip)
+[Download Latest Version](https://github.com/Tanmay-hue/Site-Sentry-A-web-Wellness-Extension/tree/main/Extension)
 
 ## Contributing
 
@@ -59,9 +59,8 @@ This project is currently **unlicensed**. All rights reserved by the author.
 
 ## Contact
 
-- 📧 Email: [ashraf.jamal.652@gmail.com](https://gmail.com/)
-- 🐦 Twitter: [@sitesentry](#)
-- 💻 GitHub: [@Ashraf2543](https://github.com/Ashraf2543)
+- 📧 Email: [Singhtanmay322@gmail.co](mailto:Singhtanmay322@gmail.com)
+- 💻 GitHub: [@Ashraf2543](https://github.com/Tanmay-hue/Site-Sentry-A-web-Wellness-Extension)
 
 ---
 
