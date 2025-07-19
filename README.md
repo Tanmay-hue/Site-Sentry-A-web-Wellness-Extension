@@ -60,7 +60,7 @@ This project is currently **unlicensed**. All rights reserved by the author.
 ## Contact
 
 - 📧 Email: [Singhtanmay322@gmail.co](mailto:Singhtanmay322@gmail.com)
-- 💻 GitHub: [@Ashraf2543](https://github.com/Tanmay-hue/Site-Sentry-A-web-Wellness-Extension)
+- 💻 GitHub: [@Tanmay-hue](https://github.com/Tanmay-hue/Site-Sentry-A-web-Wellness-Extension)
 
 ---
 
